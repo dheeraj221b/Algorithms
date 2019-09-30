@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FindNumberOfReversePair",
+            "request": "launch",
+            "mainClass": "FindNumberOfReversePair"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SumOfUniqueElementsInGivenArray",
             "request": "launch",
             "mainClass": "SumOfUniqueElementsInGivenArray"
