@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FindThirdLargest",
+            "request": "launch",
+            "mainClass": "FindThirdLargest"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - GroupingOfAnagrams",
             "request": "launch",
             "mainClass": "GroupingOfAnagrams"
