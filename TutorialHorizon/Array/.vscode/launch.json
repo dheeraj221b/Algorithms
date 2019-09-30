@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SumOfUniqueElementsInGivenArray",
+            "request": "launch",
+            "mainClass": "SumOfUniqueElementsInGivenArray"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindThirdLargest",
             "request": "launch",
             "mainClass": "FindThirdLargest"
