@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GroupingOfAnagrams",
+            "request": "launch",
+            "mainClass": "GroupingOfAnagrams"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SortStackUsingTempStack",
             "request": "launch",
             "mainClass": "SortStackUsingTempStack"
