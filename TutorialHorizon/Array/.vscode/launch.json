@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReverseStackUsingRecursionWithoutUsingExtraMemory",
+            "request": "launch",
+            "mainClass": "ReverseStackUsingRecursionWithoutUsingExtraMemory"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindThirdSmallestElement",
             "request": "launch",
             "mainClass": "FindThirdSmallestElement"
