@@ -21,6 +21,5 @@ public class FindThirdLargest {
             }
         }
         System.out.println(third);
-
     }
 }
