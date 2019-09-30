@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FindThirdSmallestElement",
+            "request": "launch",
+            "mainClass": "FindThirdSmallestElement"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindThirdHighestElement",
+            "request": "launch",
+            "mainClass": "FindThirdHighestElement"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RoundPriceProblem",
             "request": "launch",
             "mainClass": "RoundPriceProblem"
