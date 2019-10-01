@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindNumberOfReversePair",
             "request": "launch",
             "mainClass": "FindNumberOfReversePair"
