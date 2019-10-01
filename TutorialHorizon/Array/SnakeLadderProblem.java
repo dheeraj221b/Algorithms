@@ -3,7 +3,7 @@
  */
 public class SnakeLadderProblem {
 
-    static int minJump = Integer.MAX_VALUE;
+    static int minJump = -1;
 
     public static void main(String[] args) {
         int size = 36;
@@ -28,12 +28,17 @@ public class SnakeLadderProblem {
         }
 
         findMinimumJump(board, 0, trackArr);
-        System.out.println("Minimum Jump: " + trackArr[size - 1]);
+        minJump = trackArr[size - 1] == Integer.MAX_VALUE ? -1 : trackArr[size - 1];
+        System.out.println("Min Jump: " + minJump);
     }
 
     public static void findMinimumJump(int board[], int current, int trackArr[]) {
 
         if (current == (board.length - 1)) {
+            return;
+        }
+
+        if (board[current] == 0) {
             return;
         }
 
