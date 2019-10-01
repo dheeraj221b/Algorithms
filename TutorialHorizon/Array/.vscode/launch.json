@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HeapSort",
             "request": "launch",
             "mainClass": "HeapSort"
