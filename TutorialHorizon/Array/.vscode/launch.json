@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SnakeLadderProblem",
+            "request": "launch",
+            "mainClass": "SnakeLadderProblem"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MaxDiffBwTwoNumbers",
             "request": "launch",
             "mainClass": "MaxDiffBwTwoNumbers"
