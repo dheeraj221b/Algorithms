@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreadthFirstSearchTreeTraversal",
+            "request": "launch",
+            "mainClass": "BreadthFirstSearchTreeTraversal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WeightedGraphImplementation",
+            "request": "launch",
+            "mainClass": "WeightedGraphImplementation"
+        }
+    ]
+}
