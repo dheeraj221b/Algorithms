@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SubarrayProductLessThanK",
+            "request": "launch",
+            "mainClass": "SubarrayProductLessThanK"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BFSTravelsal",
             "request": "launch",
             "mainClass": "BFSTravelsal"
