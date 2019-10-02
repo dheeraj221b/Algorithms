@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BFSTravelsal",
+            "request": "launch",
+            "mainClass": "BFSTravelsal"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BreadthFirstSearchTreeTraversal",
             "request": "launch",
             "mainClass": "BreadthFirstSearchTreeTraversal"
