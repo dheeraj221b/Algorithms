@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SubArraySum",
+            "request": "launch",
+            "mainClass": "SubArraySum"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PrintAllSubsequenceOfArray",
             "request": "launch",
             "mainClass": "PrintAllSubsequenceOfArray"
