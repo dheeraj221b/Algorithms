@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PrintAllSubsequenceOfArray",
+            "request": "launch",
+            "mainClass": "PrintAllSubsequenceOfArray"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SnakeLadderProblem",
             "request": "launch",
             "mainClass": "SnakeLadderProblem"
