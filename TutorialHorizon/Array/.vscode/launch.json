@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RearrangeArrayInSpecialOrder",
+            "request": "launch",
+            "mainClass": "RearrangeArrayInSpecialOrder"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NutsBoltsProblem",
             "request": "launch",
             "mainClass": "NutsBoltsProblem"
