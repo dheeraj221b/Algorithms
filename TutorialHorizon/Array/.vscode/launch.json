@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NutsBoltsProblem",
+            "request": "launch",
+            "mainClass": "NutsBoltsProblem"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SubArraySum",
             "request": "launch",
             "mainClass": "SubArraySum"
