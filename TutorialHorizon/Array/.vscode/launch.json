@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TwoNonRepeatingXOR",
+            "request": "launch",
+            "mainClass": "TwoNonRepeatingXOR"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MedianOfTwoSortedArrayOfSameSize",
             "request": "launch",
             "mainClass": "MedianOfTwoSortedArrayOfSameSize"
