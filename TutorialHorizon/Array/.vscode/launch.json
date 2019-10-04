@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MedianOfTwoSortedArrayOfSameSize",
+            "request": "launch",
+            "mainClass": "MedianOfTwoSortedArrayOfSameSize"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MedianOfTwoSortedArray",
+            "request": "launch",
+            "mainClass": "MedianOfTwoSortedArray"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RearrangeArrayInSpecialOrder",
             "request": "launch",
             "mainClass": "RearrangeArrayInSpecialOrder"
