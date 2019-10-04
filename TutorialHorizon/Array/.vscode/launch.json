@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SeperateEvenAndOddIntegerInArray",
+            "request": "launch",
+            "mainClass": "SeperateEvenAndOddIntegerInArray"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TwoNonRepeatingXOR",
             "request": "launch",
             "mainClass": "TwoNonRepeatingXOR"
