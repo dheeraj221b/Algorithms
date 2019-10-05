@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CheckArrayIfSortedUsingRecursion",
+            "request": "launch",
+            "mainClass": "CheckArrayIfSortedUsingRecursion"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindThreeElementInArrWithSumK",
             "request": "launch",
             "mainClass": "FindThreeElementInArrWithSumK"
