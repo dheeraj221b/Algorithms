@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FindIndexFromWhichZeroStart",
+            "request": "launch",
+            "mainClass": "FindIndexFromWhichZeroStart"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CheckArrayIfSortedUsingRecursion",
             "request": "launch",
             "mainClass": "CheckArrayIfSortedUsingRecursion"
