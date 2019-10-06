@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FindIncreasingOrDecreasingPointInArray",
+            "request": "launch",
+            "mainClass": "FindIncreasingOrDecreasingPointInArray"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindIndexFromWhichZeroStart",
             "request": "launch",
             "mainClass": "FindIndexFromWhichZeroStart"
