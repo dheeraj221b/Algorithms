@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LongestSnakeSequence",
+            "request": "launch",
+            "mainClass": "LongestSnakeSequence"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LastNonRepeatingCharacter",
             "request": "launch",
             "mainClass": "LastNonRepeatingCharacter"
