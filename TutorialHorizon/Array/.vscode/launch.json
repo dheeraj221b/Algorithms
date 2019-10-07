@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - EditDistanceProblemDP",
+            "request": "launch",
+            "mainClass": "EditDistanceProblemDP"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RobotTravelProblem",
             "request": "launch",
             "mainClass": "RobotTravelProblem"
