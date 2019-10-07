@@ -3,7 +3,9 @@
  */
 public class StockSingleSellProblem {
     public static void main(String[] args) {
-        int[] arr = { 200, 500, 1000, 700, 30, 400, 900, 400, 50 };
+        // int[] arr = { 200, 500, 1000, 700, 30, 400, 900, 400, 50 };
+        // int[] arr = { 2, 5, 1, 7, 3, 9, 5 };
+        int[] arr = { 22, 2, 12, 5, 4, 7, 3, 19, 5 };
         int min = arr[0];
         int max = arr[0];
 
