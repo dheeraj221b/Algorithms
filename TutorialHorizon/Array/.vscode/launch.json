@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StockSingleSellProblem",
+            "request": "launch",
+            "mainClass": "StockSingleSellProblem"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindIncreasingOrDecreasingPointInArray",
             "request": "launch",
             "mainClass": "FindIncreasingOrDecreasingPointInArray"
