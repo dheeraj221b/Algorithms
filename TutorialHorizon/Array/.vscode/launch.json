@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MaximumSubarrayProblem",
+            "request": "launch",
+            "mainClass": "MaximumSubarrayProblem"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StockSingleSellProblem",
             "request": "launch",
             "mainClass": "StockSingleSellProblem"
