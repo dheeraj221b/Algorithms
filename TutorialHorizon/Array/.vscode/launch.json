@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CoinInALineGameProblem",
+            "request": "launch",
+            "mainClass": "CoinInALineGameProblem"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - EditDistanceProblemDP",
             "request": "launch",
             "mainClass": "EditDistanceProblemDP"
