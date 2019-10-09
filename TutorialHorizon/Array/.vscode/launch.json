@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ShortestRangeInKSortedList",
+            "request": "launch",
+            "mainClass": "ShortestRangeInKSortedList"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShortestRangeInKortedList",
+            "request": "launch",
+            "mainClass": "ShortestRangeInKortedList"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HighwayBillboardProblem",
             "request": "launch",
             "mainClass": "HighwayBillboardProblem"
