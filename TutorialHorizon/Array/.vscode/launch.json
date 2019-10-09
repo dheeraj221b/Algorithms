@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HighwayBillboardProblem",
+            "request": "launch",
+            "mainClass": "HighwayBillboardProblem"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CoinInALineGameProblem",
             "request": "launch",
             "mainClass": "CoinInALineGameProblem"
