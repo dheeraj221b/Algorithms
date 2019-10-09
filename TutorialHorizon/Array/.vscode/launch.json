@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LongestCommonSubstringDP",
+            "request": "launch",
+            "mainClass": "LongestCommonSubstringDP"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ShortestRangeInKSortedList",
             "request": "launch",
             "mainClass": "ShortestRangeInKSortedList"
