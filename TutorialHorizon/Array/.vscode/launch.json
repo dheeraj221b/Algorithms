@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LongestCommonSubsequence",
+            "request": "launch",
+            "mainClass": "LongestCommonSubsequence",
+            "projectName": "Array_4392bb01"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LongestCommonSubstringDP",
             "request": "launch",
             "mainClass": "LongestCommonSubstringDP"
