@@ -26,7 +26,7 @@ public class ReverseStackUsingRecursionWithoutUsingExtraMemory {
         System.out.println("After Reverse: " + stack);
     }
 
-    public static void reverseStack(Stack stack) {
+    public static void reverseStack(Stack<Integer> stack) {
         if (stack.size() > 0) {
             int x = (int) stack.pop();
             reverseStack(stack);
@@ -34,7 +34,7 @@ public class ReverseStackUsingRecursionWithoutUsingExtraMemory {
         }
     }
 
-    public static void insertAtBottom(Stack stack, int x) {
+    public static void insertAtBottom(Stack<Integer> stack, int x) {
         if (stack.size() == 0) {
             stack.add(x);
             return;

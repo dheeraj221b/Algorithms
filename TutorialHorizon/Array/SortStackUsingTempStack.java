@@ -21,7 +21,7 @@ public class SortStackUsingTempStack {
         sortStackWithoutRecursion(originalStack);
     }
 
-    public static void sortStack(Stack stack) {
+    public static void sortStack(Stack<Integer> stack) {
 
         Stack<Integer> tempStack = new Stack<>();
 

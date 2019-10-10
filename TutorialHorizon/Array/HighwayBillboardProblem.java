@@ -8,7 +8,7 @@ public class HighwayBillboardProblem {
     public static void main(String[] args) {
         int[] x = { 6, 7, 12, 13, 14 };
         int[] revenue = { 5, 6, 5, 3, 1 };
-        int distance = 20;
+        // int distance = 20;
         int milesRestriction = 5;
 
         int len = x.length;
