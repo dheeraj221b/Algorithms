@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RearrangeArrayOfGivenRange",
+            "request": "launch",
+            "mainClass": "RearrangeArrayOfGivenRange",
+            "projectName": "Array_4392bb01"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NQueensProblem",
             "request": "launch",
             "mainClass": "NQueensProblem",
