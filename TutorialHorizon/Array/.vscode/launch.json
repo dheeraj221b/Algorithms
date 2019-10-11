@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PrintAllPermutationOfString",
+            "request": "launch",
+            "mainClass": "PrintAllPermutationOfString",
+            "projectName": "Array_4392bb01"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindMagicIndex",
             "request": "launch",
             "mainClass": "FindMagicIndex",
