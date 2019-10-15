@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AllSubSetOfSizeK",
+            "request": "launch",
+            "mainClass": "AllSubSetOfSizeK",
+            "projectName": "Array_4392bb01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConstructTriangle",
+            "request": "launch",
+            "mainClass": "ConstructTriangle",
+            "projectName": "Array_4392bb01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindIncreasingTripletSubsequence",
+            "request": "launch",
+            "mainClass": "FindIncreasingTripletSubsequence",
+            "projectName": "Array_4392bb01"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PrintAllPermutationOfString",
             "request": "launch",
             "mainClass": "PrintAllPermutationOfString",
