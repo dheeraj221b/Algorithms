@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Sorting3Integers",
+            "request": "launch",
+            "mainClass": "Sorting3Integers",
+            "projectName": "Array_4392bb01"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CountingSort",
             "request": "launch",
             "mainClass": "CountingSort",
