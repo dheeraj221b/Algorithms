@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MaximumDistance",
+            "request": "launch",
+            "mainClass": "MaximumDistance"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - IntersecionPoint2Arrays",
             "request": "launch",
             "mainClass": "IntersecionPoint2Arrays"
