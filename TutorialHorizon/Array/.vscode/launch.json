@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SearchElementInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "SearchElementInRotatedSortedArray"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NbyKTimes",
             "request": "launch",
             "mainClass": "NbyKTimes"
