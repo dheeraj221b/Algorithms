@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IntersecionPoint2Arrays",
+            "request": "launch",
+            "mainClass": "IntersecionPoint2Arrays"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RearragePostiveNegativeAlternatively",
             "request": "launch",
             "mainClass": "RearragePostiveNegativeAlternatively"
