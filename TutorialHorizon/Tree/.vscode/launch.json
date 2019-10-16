@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DepthFirstSearchTreeTraversal",
+            "request": "launch",
+            "mainClass": "DepthFirstSearchTreeTraversal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreadthFirstSearchTreeTraversal",
+            "request": "launch",
+            "mainClass": "BreadthFirstSearchTreeTraversal"
+        }
+    ]
+}
