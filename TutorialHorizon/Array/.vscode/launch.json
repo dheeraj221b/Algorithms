@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SortArrayDefinedByOtherArray",
+            "request": "launch",
+            "mainClass": "SortArrayDefinedByOtherArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintAllPermutationOfString",
+            "request": "launch",
+            "mainClass": "PrintAllPermutationOfString"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SearchElementInRotatedSortedArray",
             "request": "launch",
             "mainClass": "SearchElementInRotatedSortedArray"
