@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CheckArrayContainsAllElementsInGivenRange",
+            "request": "launch",
+            "mainClass": "CheckArrayContainsAllElementsInGivenRange"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Sorting3Integers",
             "request": "launch",
             "mainClass": "Sorting3Integers",
