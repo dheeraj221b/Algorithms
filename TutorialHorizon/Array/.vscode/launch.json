@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - OccurrencesInSortedArray",
+            "request": "launch",
+            "mainClass": "OccurrencesInSortedArray"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DescendingOddAscendingEven",
             "request": "launch",
             "mainClass": "DescendingOddAscendingEven"
