@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FindCommonElement3Arrays",
+            "request": "launch",
+            "mainClass": "FindCommonElement3Arrays"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - OccurrencesInSortedArray",
             "request": "launch",
             "mainClass": "OccurrencesInSortedArray"
