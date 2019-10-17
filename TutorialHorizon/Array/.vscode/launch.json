@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FirstRepeatingElement",
+            "request": "launch",
+            "mainClass": "FirstRepeatingElement"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindCommonElement3Arrays",
             "request": "launch",
             "mainClass": "FindCommonElement3Arrays"
