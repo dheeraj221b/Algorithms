@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SortedArrayToBinarySearchTreeMinimalHeight",
+            "request": "launch",
+            "mainClass": "SortedArrayToBinarySearchTreeMinimalHeight"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SmallestNumNotFormedByAnySubsetOfSortedArray",
             "request": "launch",
             "mainClass": "SmallestNumNotFormedByAnySubsetOfSortedArray"
